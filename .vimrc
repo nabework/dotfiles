@@ -10,6 +10,10 @@ set undodir=$HOME/.vim.undodir
 " => key binds ===== {{{1
 
 " => plugins ===== {{{1
+call plug#begin('$HOME/.vim/plugged')
+
+
+call plug#end()
 
 " => plugins config ===== {{{1
 
