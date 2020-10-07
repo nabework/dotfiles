@@ -33,6 +33,5 @@ call plug#end()
 
 " theme
 syntax enable
-set background=dark
-colorscheme solarized
+colorscheme elflord
 
