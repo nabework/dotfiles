@@ -1,3 +1,6 @@
+# theme
+PROMPT='%F{cyan}%m%%%F{white}%n %F{green}[%~] %# '
+
 # homebrew
 export PATH=$HOME/.homebrew/bin:$PATH
 
